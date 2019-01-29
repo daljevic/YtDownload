@@ -1,8 +1,8 @@
 # YtDownload
 
-Simple python3 script that downloads and converts your desiered youtube video
+Simple python3 script that downloads and converts your desired youtube video
 
-### Installing libraries
+### Installation
 
 Install the latest python3 version
 ```
@@ -20,3 +20,4 @@ https://www.ffmpeg.org/download.html
 ```
 
 Make sure FFmpeg /bin/ is added to your PATH
+
